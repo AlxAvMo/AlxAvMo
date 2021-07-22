@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlxAvMo a.k.a Alexis Avendaño Morales
-- 👀 I’m interested in programming and travels...actually searching for a job
+- 👀 I’m interested in programming and traveling...actually searching for a job
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me:
   alex.ave.mora@gmail.com
